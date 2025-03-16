@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "profile_photo": "./assets/images/default-pp.png",
+            "fullname": "Yusuf Arslan",
+            "title": "WordPress Developer",
+            "company": "34WP",
+            "email": "hello@yusufarslan.dev",
+            "phone": "+905393441864",
+            "linkedin_username": "yusufarslandev",
+            "github_username": "gukokhue",
+            "website": "https://yusufarslan.dev"
+        },
+        {
+            "id": 2,
+            "profile_photo": "./assets/images/default-pp.png",
+            "fullname": "Hadi Tok",
+            "title": "Android Developer",
+            "company": "Meta",
+            "email": "haditok@gmail.com",
+            "phone": "+447778883942",
+            "linkedin_username": "",
+            "github_username": "",
+            "website": ""
+        }
+    ]
+}
